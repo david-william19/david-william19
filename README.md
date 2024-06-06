@@ -4,7 +4,7 @@ Hi 👋 My name is David William Da Costa
 Web developer (Front-end)
 -------------------------
 
-i've been learning programming since high school (6 years) and i still learn too for make improvement. my first programming language i learn is c++ so i little bit familiar with it (because, right now i focus at web development).
+I've been learning programming since high school (6 years) and I am still learning to make improvements. The first programming language I learn is C++ so I am familiar with it (because right now I focus on web development).
 
 * 🌍  I'm based in Bandung
 * ✉️  You can contact me at [davidddwlliam@gmail.com](mailto:davidddwlliam@gmail.com)
