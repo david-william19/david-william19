@@ -6,9 +6,9 @@ Web developer (Front-end)
 
 I've been learning programming since high school (6 years) and I am still learning to make improvements. The first programming language I learn is C++ so I am familiar with it (because right now I focus on web development).
 
-* 🌍  I'm based in Bandung
-* ✉️  You can contact me at [davidddwlliam@gmail.com](mailto:davidddwlliam@gmail.com)
-* 🧠  I'm learning Ember, React, React Native, Next, Node, Express
+* 🌍  I'm based in Jakarta
+* ✉️  You can contact me at [davidwilldacosta@gmail.com](mailto:davidwilldacosta@gmail.com)
+* 🧠  Currently i'm learning Flutter and Golang
 
 ### Skills
 
